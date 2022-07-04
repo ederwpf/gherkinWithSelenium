@@ -1,0 +1,28 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cobertura-2.1.1.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cucumber-core-1.2.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cucumber-java-1.2.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cucumber-junit-1.2.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cucumber-jvm-deps-1.0.3.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\cucumber-reporting-0.1.0.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\gherkin-2.12.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\hamcrest-core-1.3.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\CucumberJarFiles-1\\Cucumber\\junit-4.11.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cobertura-2.0.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-core-7.4.0.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-html-0.2.7.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-java-7.4.0.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-junit-1.2.5.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-jvm-deps-1.0.5.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\cucumber-reporting-5.7.0.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\gherkin-2.12.0.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\hamcrest-core-2.2.jar",
+        "c:\\Users\\ederw\\Documents\\QA\\GherkinJava\\junit-4.13.2.jar"
+    ],
+    "java.project.sourcePaths": [
+        "TestRunner",
+        "StepDefinition"
+    ]
+}
